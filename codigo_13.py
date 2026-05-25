@@ -1,3 +1,4 @@
+#Desarrollar un programa que calcule la diagonal y la contra diagonal de un array de 4x4.
 m=[[1,2,3,4],
    [4,6,7,8],
    [9,10,11,12],
